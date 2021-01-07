@@ -1,4 +1,4 @@
-# benchmarking-supervised-classifiers
+# Benchmarking Supervised Classifiers on a single-cell RNA Sequencing Data
 Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA  Sequencing Data for Cell Annotation
 
 
@@ -15,4 +15,4 @@ In light of these shortcomings with the individual cell type identification meth
 This project benchmarks 2 supervised classifiers viz. SVM and ACTINN on the MCA dataset.
 
 
-The link to the full report can be found [here](https://github.com/malabikasen/benchmarking-supervised-classifiers/blob/main/CS_5854__Final_Project_Report.pdf).
+The link to the full report can be found [here](https://github.com/malabikasen/benchmarking-supervised-classifiers/blob/main/benchmarking-supervised-classifiers.pdf).
